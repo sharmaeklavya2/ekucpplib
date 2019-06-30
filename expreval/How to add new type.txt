@@ -1,0 +1,13 @@
+Make a specialization of math_mode class (optional) in a header file in <eku\expreval\math_mode\> and include it in <eku\expreval\expreval.h>
+
+Specialize varop (in <eku\expreval\varop_spec.h>):
+	if references are required, #define dtyp as the type and #include<eku\expreval\refop.h>
+	if const references are required, #define dtyp as the type and #include<eku\expreval\crefop.h>
+
+Make homogenization file in <eku\expreval\homo\>if required.
+
+Make a function pointers file in <eku\expreval\funcs\>
+
+Add specialization to <eku\expreval\loadfunc.h>
+Add specialization to <eku\expreval\loadvar.h>
+Add specialization to <eku\expreval\conv.h>

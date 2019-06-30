@@ -1,0 +1,4 @@
+<eku\fraction.h>
+
+<eku\expreval\expreval.h> - inline dtyp call1<dtyp>(char* a,dtyp b) (with dtyp as bool)
+varop<dtyp>::unop.size() returns 0. It should return 1. Returns 1 in debug watch windows.

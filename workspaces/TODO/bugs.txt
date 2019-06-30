@@ -1,0 +1,9 @@
+<eku\expreval\>: add domain checking
+
+<eku\struint.h>: add funcs
+
+<eku\windows\UIclass\listbox.h>: test it for bug-freedom
+
+<eku\numlex> provide std::string& functions
+
+<eku\main_func.h> provide non-const member functions operating on static objects

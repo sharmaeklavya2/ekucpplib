@@ -1,0 +1,14 @@
+a.out
+a.out.*
+gmon.out
+.ycm_extra_conf.py
+
+/build
+secret
+var
+
+*~
+*.sw[po]
+Thumbs.db
+Desktop.ini
+*.DS_Store

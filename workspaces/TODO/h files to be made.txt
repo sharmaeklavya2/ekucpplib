@@ -1,0 +1,7 @@
+Make <clint> (const sized long int)
+Make <winui.h> (UI using windows.h, i.e. checkboxes for MCQ, edit for inputting string, etc.)
+Make <windows\UIclass\> for using windows controls as containers and iterators
+Make <eku\uncertainity.h> for variables with uncertainity
+Make <eku\strvec.h> contains std::vector<size_t> and std::string instead of std::vector<std::string>
+Make <eku\class\modular.h> for modular arithmetic
+Make factored_num class using POWERMUL.cpp
